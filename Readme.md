@@ -14,7 +14,7 @@ Requirements:
 
 The tests covers 100% of the source code. It was tested on Debian, FreeBSD and Windows.
 
-Binaries can be downloaded [here.](https://github.com/mazoti/adler32/releases/)
+Binaries can be downloaded [here.](https://github.com/mazoti/adler32/tree/main/releases)
 
 To build from source code:
 
